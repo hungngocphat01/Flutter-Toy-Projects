@@ -1,2 +1,3 @@
 ## This is a shopping cart demo with `ChangeNotifierProvider`.
-![demo-gif](demo.gif)
+
+<img src="demo.gif" width="700">
